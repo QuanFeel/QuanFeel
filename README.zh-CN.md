@@ -8,7 +8,7 @@
 
 - 🌐 个人网站：[blog.flutterweb.cn](https://blog.flutterweb.cn/)
 - 📕 小红书：[泉凭感觉](https://xhslink.cn/o/8CJNwsngh3Z)
-- 𝕏 X：[@jsasonm](https://x.com/jsasonm)
+- 𝕏 [@jsasonm](https://x.com/jsasonm)
 
 ## 我在做什么
 
