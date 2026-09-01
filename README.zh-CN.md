@@ -1,4 +1,4 @@
-# Hi，我是 quanFeel 👋
+# Hi，我是 QuanFeel 👋
 
 [English](README.md) · **中文**
 
@@ -18,13 +18,13 @@
 
 ## 精选项目
 
-- [Infinite Canvas Agent](https://github.com/quanFeel/infinite-canvas-agent)<br>
+- [Infinite Canvas Agent](https://github.com/QuanFeel/infinite-canvas-agent)<br>
   一个与框架无关的无限画布项目，包含 AI Agent 能力和可交互演示。
 
-- [Multica Agent Sync](https://github.com/quanFeel/multica-agent-sync)<br>
+- [Multica Agent Sync](https://github.com/QuanFeel/multica-agent-sync)<br>
   开源 Codex 插件，用于同步 Codex Desktop 任务与 Multica Issue。
 
-- [AI Workshop](https://github.com/quanFeel/ai-workshop)<br>
+- [AI Workshop](https://github.com/QuanFeel/ai-workshop)<br>
   收录可复用的 Agent Skills、飞书 Skill Hub 与 AI 实验项目。
 
 ## 写作与笔记

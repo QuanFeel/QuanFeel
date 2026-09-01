@@ -1,11 +1,11 @@
-# Hi, I'm quanFeel 👋
+# Hi, I'm QuanFeel 👋
 
 **English** · [中文](README.zh-CN.md)
 
 I'm an AI R&D engineer. I build AI tools, developer workflows, and interactive interfaces.
 
 - 🌐 Personal website: [blog.flutterweb.cn](https://blog.flutterweb.cn/)
-- 📕 Xiaohongshu: [quanFeel](https://xhslink.cn/o/8CJNwsngh3Z)
+- 📕 Xiaohongshu: [QuanFeel](https://xhslink.cn/o/8CJNwsngh3Z)
 - 𝕏 [@jsasonm](https://x.com/jsasonm)
 
 ## What I build
@@ -16,13 +16,13 @@ I'm an AI R&D engineer. I build AI tools, developer workflows, and interactive i
 
 ## Selected projects
 
-- [Infinite Canvas Agent](https://github.com/quanFeel/infinite-canvas-agent)<br>
+- [Infinite Canvas Agent](https://github.com/QuanFeel/infinite-canvas-agent)<br>
   A framework-neutral infinite canvas with AI agent capabilities and interactive demos.
 
-- [Multica Agent Sync](https://github.com/quanFeel/multica-agent-sync)<br>
+- [Multica Agent Sync](https://github.com/QuanFeel/multica-agent-sync)<br>
   An open-source Codex plugin that syncs Codex Desktop tasks with Multica issues.
 
-- [AI Workshop](https://github.com/quanFeel/ai-workshop)<br>
+- [AI Workshop](https://github.com/QuanFeel/ai-workshop)<br>
   Reusable Agent Skills, Feishu Skill Hub, and practical AI experiments.
 
 ## Writing and notes
