@@ -1,6 +1,6 @@
 # Hi, I'm quanFeel 👋
 
-**English** · [Chinese](README.zh-CN.md)
+**English** · [中文](README.zh-CN.md)
 
 I'm a frontend engineer and Agent developer. I build AI tools, developer workflows, and interactive interfaces.
 
