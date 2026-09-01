@@ -7,7 +7,8 @@
 I'm a frontend engineer and Agent developer. I build AI tools, developer workflows, and interactive interfaces.
 
 🌐 Personal website: [blog.flutterweb.cn](https://blog.flutterweb.cn/)  
-📕 Xiaohongshu: [泉凭感觉](https://xhslink.cn/o/8CJNwsngh3Z)
+📕 Xiaohongshu: [泉凭感觉](https://xhslink.cn/o/8CJNwsngh3Z)  
+𝕏 X: [@jsasonm](https://x.com/jsasonm)
 
 ## What I build
 

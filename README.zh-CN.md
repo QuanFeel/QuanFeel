@@ -7,7 +7,8 @@
 我是一名前端工程师和 Agent 开发者，主要构建 AI 工具、开发工作流与交互体验。
 
 🌐 个人网站：[blog.flutterweb.cn](https://blog.flutterweb.cn/)  
-📕 小红书：[泉凭感觉](https://xhslink.cn/o/8CJNwsngh3Z)
+📕 小红书：[泉凭感觉](https://xhslink.cn/o/8CJNwsngh3Z)  
+𝕏 X：[@jsasonm](https://x.com/jsasonm)
 
 ## 我在做什么
 
