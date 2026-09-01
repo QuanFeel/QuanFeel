@@ -1,6 +1,6 @@
-# Hi, I'm Jason 👋
+# Hi, I'm quanFeel 👋
 
-Also known as **泉凭感觉**.
+中文名 **泉凭感觉**。
 
 I'm a frontend engineer and Agent developer. I build AI tools, developer workflows, and interactive interfaces.
 
