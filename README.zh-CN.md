@@ -4,7 +4,7 @@
 
 中文名 **泉凭感觉**。
 
-我是一名前端工程师和 Agent 开发者，主要构建 AI 工具、开发工作流与交互体验。
+我是一名 AI 研发工程师，主要构建 AI 工具、开发工作流与交互体验。
 
 - 🌐 个人网站：[blog.flutterweb.cn](https://blog.flutterweb.cn/)
 - 📕 小红书：[泉凭感觉](https://xhslink.cn/o/8CJNwsngh3Z)

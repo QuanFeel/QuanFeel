@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm a frontend engineer and Agent developer. I build AI tools, developer workflows, and interactive interfaces.
+I'm an AI R&D engineer. I build AI tools, developer workflows, and interactive interfaces.
 
 - 🌐 Personal website: [blog.flutterweb.cn](https://blog.flutterweb.cn/)
 - 📕 Xiaohongshu: [quanFeel](https://xhslink.cn/o/8CJNwsngh3Z)
