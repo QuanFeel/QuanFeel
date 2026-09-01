@@ -2,8 +2,37 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm an AI R&D engineer focused on frontend development, AI agents, and FDE.
+I'm an AI R&D engineer. I build AI tools, developer workflows, and interactive interfaces.
 
-- Personal website: [blog.flutterweb.cn](https://blog.flutterweb.cn/)
-- GitHub: [github.com/QuanFeel](https://github.com/QuanFeel)
-- X: [@QuanFeel](https://x.com/QuanFeel)
+- 🌐 Personal website: [blog.flutterweb.cn](https://blog.flutterweb.cn/)
+- 📕 Xiaohongshu: [QuanFeel](https://xhslink.cn/o/8CJNwsngh3Z)
+- 𝕏 [@QuanFeel](https://x.com/QuanFeel)
+
+## What I build
+
+- **Frontend experiences** — interactive products, design systems, and AI-native interfaces.
+- **AI Agents** — practical agents, Agent Skills, and tools for real development workflows.
+- **Open-source experiments** — small, reusable projects that turn ideas into working software.
+
+## Selected projects
+
+- [Infinite Canvas Agent](https://github.com/QuanFeel/infinite-canvas-agent)<br>
+  A framework-neutral infinite canvas with AI agent capabilities and interactive demos.
+
+- [Multica Agent Sync](https://github.com/QuanFeel/multica-agent-sync)<br>
+  An open-source Codex plugin that syncs Codex Desktop tasks with Multica issues.
+
+- [AI Workshop](https://github.com/QuanFeel/ai-workshop)<br>
+  Reusable Agent Skills, Feishu Skill Hub, and practical AI experiments.
+
+## Writing and notes
+
+I write about frontend development, AI Agents, developer tools, and building products with AI.
+
+Read more on my [personal website](https://blog.flutterweb.cn/).
+
+## Principles
+
+- Build tools that solve real problems.
+- Prefer small, composable, and inspectable systems.
+- Keep experiments reproducible and open source where possible.
