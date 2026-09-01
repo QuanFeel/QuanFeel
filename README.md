@@ -16,13 +16,13 @@ I'm a frontend engineer and Agent developer. I build AI tools, developer workflo
 
 ## Selected projects
 
-- [Infinite Canvas Agent](https://github.com/zhongwangquan/infinite-canvas-agent)  
+- [Infinite Canvas Agent](https://github.com/quanFeel/infinite-canvas-agent)<br>
   A framework-neutral infinite canvas with AI agent capabilities and interactive demos.
 
-- [Multica Agent Sync](https://github.com/zhongwangquan/multica-agent-sync)  
+- [Multica Agent Sync](https://github.com/quanFeel/multica-agent-sync)<br>
   An open-source Codex plugin that syncs Codex Desktop tasks with Multica issues.
 
-- [AI Workshop](https://github.com/zhongwangquan/ai-workshop)  
+- [AI Workshop](https://github.com/quanFeel/ai-workshop)<br>
   Reusable Agent Skills, Feishu Skill Hub, and practical AI experiments.
 
 ## Writing and notes
