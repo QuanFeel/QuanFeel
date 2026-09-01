@@ -1,13 +1,11 @@
 # Hi, I'm quanFeel 👋
 
-**English** · [中文](README.zh-CN.md)
-
-中文名 **泉凭感觉**。
+**English** · [Chinese](README.zh-CN.md)
 
 I'm a frontend engineer and Agent developer. I build AI tools, developer workflows, and interactive interfaces.
 
 - 🌐 Personal website: [blog.flutterweb.cn](https://blog.flutterweb.cn/)
-- 📕 Xiaohongshu: [泉凭感觉](https://xhslink.cn/o/8CJNwsngh3Z)
+- 📕 Xiaohongshu: [quanFeel](https://xhslink.cn/o/8CJNwsngh3Z)
 - 𝕏 X: [@jsasonm](https://x.com/jsasonm)
 
 ## What I build
